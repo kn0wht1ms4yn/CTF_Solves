@@ -1,5 +1,5 @@
 #### Lunar File Invasion
-- points earned: TBD 
+- points earned: 463 
 
 #### Notes
 - The first thing to note is that the title screams LFI. So I'm focusing my search for vulnerabilities on LFI.
