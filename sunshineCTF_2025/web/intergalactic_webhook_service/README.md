@@ -1,5 +1,5 @@
 #### Intergalactic Web Hook
-- points earned: TBD
+- points earned: 10
 
 #### Notes
 - since the source code is provided we know that the flag is located in a response from a POST request to `http://127.0.0.1:5001/flag`

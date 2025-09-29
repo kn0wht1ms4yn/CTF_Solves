@@ -1,5 +1,5 @@
 #### Web Forge
-- points earned: TBD 
+- points earned: 363 
 
 #### Notes
 - The first thing I checked was robots.txt which shows `/admin` and `/fetch`. It also shares some intel, `# internal SSRF testing tool requires special auth header to be set to 'true'`.
