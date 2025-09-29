@@ -6,7 +6,7 @@
 - I first manually checked for IDOR by substituting `1` for numbers in the range `1-11`.  No products are returned above 11.
 - Before scripting something to go further on the IDOR I checked for SQLI.
 - using something like `?product=1'` gives me an error. `[ Error occured. --> unrecognized token: "';" ]`
-- Using something like `?product_id=1% or 1=1-- ` returns a single result.
+- Using something like `?product_id=1 or 1=1-- ` returns a single result.
 - Using something like `?product_id=1 and 1=0-- ` returns no results.
 - Using something like `0 union select 1,2,3,4--` returns a single result with `1`, `2`, `3`, and `4` in the expected places.
 - This confirms SQLI and indicates that the page will only show 1 result.
