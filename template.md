@@ -1,6 +1,6 @@
 #### Challenge Title
 - points earned: 
 
-#### Notes
+#### Notes / Intuition
 
 #### Solution
