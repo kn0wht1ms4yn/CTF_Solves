@@ -1,5 +1,5 @@
 #### on error resume next
-- points earned: 
+- points earned: 67
 
 #### Notes / Intuition
 
