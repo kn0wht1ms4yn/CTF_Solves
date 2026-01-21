@@ -1,5 +1,5 @@
 #### Knight Shop Again
-- points earned: 
+- points earned: 100
 #### Notes / Intuition
 - After creating an account, I logged in and took a look at the src to try and get an understanding for what might be going on in this app.  Looks like a react app.
 - While scrolling through `main.<>.js` my eyes were drawn toward the following block of code.

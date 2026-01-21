@@ -1,5 +1,5 @@
 #### Knight Squad Academy
-- points earned: 
+- points earned: 100
 #### Notes / Intuition
 - I used `checksec` to begin investigating the binary
 	```

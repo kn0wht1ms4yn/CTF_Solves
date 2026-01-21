@@ -1,5 +1,5 @@
 #### Knight Squad Academy Jail
-- points earned: 
+- points earned: 100
 #### Notes / Intuition
 - The first thing I wanted to try and do on this one was figure out what type of jail this is.
 - I tried all sorts of inputs like `1`, `'a'`, `'meow'`, `1==1` which all seemed to respond as expected, no issues.

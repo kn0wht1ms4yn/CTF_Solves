@@ -1,5 +1,5 @@
 #### KnightCloud
-- points earned: 
+- points earned: 100
 #### Notes / Intuition
 - After creating an account and loggin in, I took a look at the source code.  Looks like a react app.
 - I scrolled through `index-<>.js` and found the block below which seemed curious

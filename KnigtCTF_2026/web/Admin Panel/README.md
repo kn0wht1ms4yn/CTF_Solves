@@ -1,5 +1,5 @@
 #### Admin Panel
-- points earned: 
+- points earned: 100
 #### Notes / Intuition
 - First thing I tried to to was just submit the login form with a random username and password.  Due to an issue on the platform I received the error `Error: (2003, "Can't connect to MySQL server on 'db' ([Errno -3] Temporary failure in name resolution)")`.
 - So I already know that there's a MySQL on the backend.

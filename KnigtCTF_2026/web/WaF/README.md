@@ -1,5 +1,5 @@
 #### WaF
-- points earned: 
+- points earned: 100
 #### Notes / Intuition
 - The challenge description indicates that there is a file `/flag.txt` that contains the flag.
 - There's a comment on the main landing page that shows insight into the backend web app.
