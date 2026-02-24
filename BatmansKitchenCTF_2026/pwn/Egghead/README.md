@@ -1,4 +1,4 @@
-#### Challenge Title
+#### Egghead
 - points earned: 172
 
 #### Solution
