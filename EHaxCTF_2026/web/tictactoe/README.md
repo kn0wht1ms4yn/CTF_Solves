@@ -47,4 +47,4 @@
 - Send a POST request to `/api` with the json data below
 	```json
 	{"mode":"4x4","state":[[0,0,0,1],[0,0,0,1],[0,0,0,1],[0,0,0,1]]}
-```
+	```
