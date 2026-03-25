@@ -3,7 +3,7 @@
 - Although the challenge application source was not provided, we do have access to the client side code for `challenge.html`, `/js/main.js`, and `/js/components.js`.
 #### Review: `challenge.html`
 - Nothing crrazy, this is just some html that renders the main app content.
-- The part I am concerned most about with right now is what scripts are being sourced.  This is found in the script tags at the bottom of the source code for `xhallenge.html`.
+- The part I am concerned most about with right now is what scripts are being sourced.  This is found in the script tags at the bottom of the source code for `challenge.html`.
 	```html
 	<script src="/js/purify.min.js"></script>
 	<script src="/js/components.js"></script>
